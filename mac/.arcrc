@@ -1,0 +1,13 @@
+{
+  "allow-untracked" : true,
+  "hosts"           : {
+    "https:\/\/phabricator.fb.com\/api\/"     : {
+      "user" : "groys",
+      "cert" : "caa4fHY804PyXFMBwQYgQ4yhce7t5cdr5zpBXdfWbmDGARffFp5sPsYBG\/R3nB5j5CbJ7QA8u5UHtwxAQSvj2oewW0H\/ltq3gMNEnl16RYgaWiTw2XE01j9ESB9S1UmI3j4V62FRU41vi0Z8wtPDNnhPVPyCXMgX7ZDZ+6PyxHwVR64hT4BmkywTBsPXW1zBPjlcB+H6RzmEkTwjfnd29c1ecPnOFxPkmiDjYXCtOfqdkySprV2vfRV2PtPBnvN"
+    },
+    "https:\/\/secure.phabricator.com\/api\/" : {
+      "user" : "groys",
+      "cert" : "fbazuvgsh2audbfxtw2xdch3lqy6vbnc4o3dwo4r5a77iehjig6ljygw6trx7ysra2rboh2lf5uvc4k4edd33visbt3yfaoo42cwbklsujzznbfnqinnnaym5ro2e27u4nkq6bga4zwt4jws6tpmhpjeut67ufvdmf5hpddetpv3oaj3qj2pc3l3ekhftke7dghmwfrej3gs6s557gftkiq2bvkloxlkydo5a5dm4yfmd2drc3vrsphzvx447xy"
+    }
+  }
+}

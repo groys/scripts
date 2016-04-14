@@ -1,0 +1,12 @@
+# Turn off the startup message.
+startup_message off
+# Set the caption to the active windows. 
+caption always "%-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"
+
+# Set escape character to W so that C-a doesn't override going to the beginning of the line in terminal 
+# escape escape ^Wq
+
+escape `~                               # Make ` (backtick) the command key (press `~ to type `) 
+
+# buffer size for scrollback
+defscrollback 50000
