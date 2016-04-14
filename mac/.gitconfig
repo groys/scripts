@@ -38,8 +38,8 @@
 
 # Dear god, please change these if you borrow my gitconfig
 [user]
-  name  = groys
-	email = groys@fb.com
+	name = groys
+	email = gautam.roy@gmail.com
 [commit]
 	template =/Users/groys/Code/git-commit-template.txt
 
