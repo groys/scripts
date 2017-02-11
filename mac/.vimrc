@@ -45,7 +45,8 @@ set hlsearch                  " highlighting when searching
 " note: cindent and smartindent do the wrong thing with # in certain files.
 " but i think autoindent is more minimal and good default for all filetypes.
 set autoindent
-
+filetype plugin indent on
+set cindent
 set backspace=2
 
 " display
