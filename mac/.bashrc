@@ -39,6 +39,7 @@ export PATH="$PATH:$HOME/dev/arcanist/bin"
 alias adp='arc diff --preview'
 alias adph='adp HEAD^'
 alias adpl='adp --nolint' 
+function pa() { pbpaste | arc paste | awk '{print $2}' | xargs open; }
 
 #general
 alias rm='rm -i'
